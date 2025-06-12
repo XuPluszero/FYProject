@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This is a **Final Year Project (SEEM4999 Group F)** focused on **IDH mutation prediction in brain tumors** using **radiomics analysis** and **machine learning ensemble methods**. The project analyzes medical imaging data from three MRI modalities (ADC, T1C, T2) to predict IDH (Isocitrate Dehydrogenase) mutation status, which is crucial for brain tumor diagnosis and treatment planning.
+This is a **Final Year Project** focused on **IDH mutation prediction in brain tumors** using **radiomics analysis** and **machine learning ensemble methods**. The project analyzes medical imaging data from three MRI modalities (ADC, T1C, T2) to predict IDH (Isocitrate Dehydrogenase) mutation status, which is crucial for brain tumor diagnosis and treatment planning.
 
 ### Key Features
 - **Multi-modal radiomics analysis** using PyRadiomics-extracted features
@@ -141,7 +141,7 @@ FYProject/
 
 ## 🎓 Academic Context
 
-This project was developed as part of **SEEM4999 (Final Year Project)** at **The Chinese University of Hong Kong, Shenzhen**. It demonstrates the application of machine learning in medical imaging analysis, specifically for brain tumor IDH mutation prediction.
+This project was developed as part of **SEEM4999 (Final Year Project)** at **The Chinese University of Hong Kong**. It demonstrates the application of machine learning in medical imaging analysis, specifically for brain tumor IDH mutation prediction.
 
 ### Key Learning Outcomes:
 - Medical imaging data analysis
@@ -149,12 +149,6 @@ This project was developed as part of **SEEM4999 (Final Year Project)** at **The
 - Multi-modal machine learning
 - Ensemble learning techniques
 - Cross-validation and model evaluation
-
-## 👨‍💻 Author
-
-**Group F - SEEM4999**
-- Developed for Final Year Project requirements
-- Focus on practical machine learning applications in healthcare
 
 ## 📄 License
 
