@@ -47,6 +47,7 @@ matplotlib>=3.4.0
 scikit-learn>=1.0.0
 xgboost>=1.5.0
 lightgbm>=3.3.0
+pyradiomics>=3.1.0
 ```
 
 ## 🚀 Installation & Setup
